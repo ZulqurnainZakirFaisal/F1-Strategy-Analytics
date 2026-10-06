@@ -22,3 +22,8 @@ This script analyzes the final stint of the 2025 Abu Dhabi Grand Prix, modeling 
 * **Max Verstappen:** Maintained a nearly flat degradation slope, losing only **+0.009s per lap**, highlighting exceptional tire management under pressure.
 * **Lando Norris:** Experienced standard degradation, dropping **+0.063s per lap**.
 * **Oscar Piastri:** Suffered the steepest drop-off at **+0.081s per lap**, visually mapped by the sharpest trendline angle.
+
+### 4. Singapore 2018 Q3: The Ultimate Pole Lap
+A telemetry breakdown comparing speed, throttle application, and time delta against Lewis Hamilton's iconic pole lap at Marina Bay. 
+
+![Singapore 2018 Telemetry Delta](singapore_2018_telemetry_delta.png)
