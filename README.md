@@ -9,7 +9,7 @@ This study visualizes Esteban Ocon's lap times as he completed the entire race o
 ![Ocon Study](Ocon_graph.png)
 
 **Key Insights:**
-* **The Pace Cliff:** Lap times plummeted drastically in the final 5 laps as the intermediate tread completely wore down to the carcass.
+* **The Pace Cliff:** Ocon's times plummeted drastically in the final 5 laps as the intermediate tread completely wore down to the carcass.
 * **Risk vs. Reward:** Skipping the ~20-second pit stop allowed Ocon to narrowly secure a points finish, despite losing several seconds per lap to the leaders at the end of the race.
 
 ### 2. The Title Decider: Verstappen vs. Hamilton Telemetry (Abu Dhabi 2021)
